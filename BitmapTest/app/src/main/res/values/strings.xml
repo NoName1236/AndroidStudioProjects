@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BitmapTest</string>
+    <string name="scaling">按比例缩放</string>
+    <string name="scale_by_value">按数值缩放</string>
+    <string name="cut">裁剪</string>
+    <string name="clockwise_rotation">顺时针旋转</string>
+    <string name="counter_clockwise_rotation">逆时针旋转</string>
+    <string name="offset_effect">偏移效果</string>
+    <string name="text_null">空</string>
+</resources>
